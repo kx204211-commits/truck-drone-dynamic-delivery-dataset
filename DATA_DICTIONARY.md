@@ -31,3 +31,4 @@
 `nominalTrucks`和`nominalDronesPerTruck`为原车辆数及每车无人机数；`finalTrucks`和`finalDronesPerTruck`为离线增配测试的最终配置，规模实例中的最终配置栏留空。
 
 `addedTrucks`为增加车辆数；`addedDrones`为车队无人机总数的增量，包括新增车辆搭载的无人机。
+
